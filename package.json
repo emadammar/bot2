@@ -32,7 +32,7 @@
     "figlet": "^1.5.2",
     "fs": "0.0.1-security",
     "inshorts-news-api": "^1.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "openai": "^3.2.1",
     "pino": "^7.0.5",
     "qrcode-terminal": "^0.12.0",
